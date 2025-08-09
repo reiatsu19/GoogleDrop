@@ -12,5 +12,3 @@
 - Python 3.8+  
 - Gmail account with **App Password** enabled  
 - Google Cloud API project with Drive API enabled  
-
-## Required Python Packages
